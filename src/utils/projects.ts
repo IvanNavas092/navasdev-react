@@ -13,14 +13,14 @@ import herrerasNewsletterImage from '../assets/imgs/projects/imgsForId/herreras/
 import costaDigitalHomeVideo from '../assets/imgs/projects/imgsForId/costaDigital/home.mp4';
 import costaDigitalAnimationVideo from '../assets/imgs/projects/imgsForId/costaDigital/animation.mp4';
 // SKILLPING
-import skillpingChatImage from '../assets/imgs/projects/imgsForId/skillPing/chat-skillping.png';
-import skillpingExploreImage from '../assets/imgs/projects/imgsForId/skillPing/explore.png';
-import skillpingMaquetationImage from '../assets/imgs/projects/imgsForId/skillPing/maquetation.png';
-import skillpingMaquetationImage2 from '../assets/imgs/projects/imgsForId/skillPing/maquetation-2.png';
+import skillpingChatImage from '../assets/imgs/projects/imgsForId/skillping/chat-skillping.png';
+import skillpingExploreImage from '../assets/imgs/projects/imgsForId/skillping/explore.png';
+import skillpingMaquetationImage from '../assets/imgs/projects/imgsForId/skillping/maquetation.png';
+import skillpingMaquetationImage2 from '../assets/imgs/projects/imgsForId/skillping/maquetation-2.png';
 // FAST SNIPPETS
-import fastsnippetsHomeVideo from '../assets/imgs/projects/imgsForId/fastSnippets/home.mp4';
-import fastsnippetsExploreImage from '../assets/imgs/projects/imgsForId/fastSnippets/explore.png';
-import fastsnippetsIaAgentImage from '../assets/imgs/projects/imgsForId/fastSnippets/ia-agent.png';
+import fastsnippetsHomeVideo from '../assets/imgs/projects/imgsForId/fastsnippets/home.mp4';
+import fastsnippetsExploreImage from '../assets/imgs/projects/imgsForId/fastsnippets/explore.png';
+import fastsnippetsIaAgentImage from '../assets/imgs/projects/imgsForId/fastsnippets/ia-agent.png';
 
 
 export const projectList: Project[] = [
