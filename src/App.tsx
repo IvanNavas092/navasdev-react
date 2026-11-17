@@ -1,9 +1,6 @@
 import './App.css'
 import LiquidEther from './components/out/LiquidEther'
-import Hero from './components/Hero'
 import Header from './shared/Header'
-import AboutMe from './components/AboutMe'
-import Projects from './components/projects'
 import AppRouter from './routes/AppRoutes'
 
 function App() {

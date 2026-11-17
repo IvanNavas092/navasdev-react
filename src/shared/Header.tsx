@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import ButtonCv from '../shared/buttons/Button-cv'
 import ButtonLang from '../shared/buttons/Button-lang'
 import verified from '../assets/imgs/verified.png'
