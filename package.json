@@ -14,12 +14,13 @@
     "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.3.3",
     "emailjs": "^5.0.4",
-    "gsap": "^3.15.0",
+    "gsap": "^3.15.1",
     "i18next": "^26.7.2",
     "ogl": "^1.0.11",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "react-i18next": "^17.1.13"
+    "react-i18next": "^17.1.13",
+    "react-router-dom": "^7.18.5"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

@@ -75,5 +75,8 @@
   "working": "Working",
   "software-developer": "Software Developer",
   "Microservices": "Microservices",
-  "experience-years": "+2 years of experience"
+  "experience-years": "+2 years of experience",
+  "difficulty": "Difficulty",
+  "notFound": "Page not found",
+  "goBack": "Go back to the homepage"
 }

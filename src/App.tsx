@@ -2,7 +2,9 @@ import './App.css'
 import LiquidEther from './components/out/LiquidEther'
 import Hero from './components/Hero'
 import Header from './shared/Header'
-import AboutMe from './components/about-me/AboutMe'
+import AboutMe from './components/AboutMe'
+import Projects from './components/projects'
+import AppRouter from './routes/AppRoutes'
 
 function App() {
   return (
@@ -26,15 +28,12 @@ function App() {
           lightMode={false}
         />
       </div>
-
-      {/* contenido */}
-      <main className="mx-8 my-4 flex flex-col gap-2 relative z-20">
-        <div className="flex flex-col gap-12">
+      <div className="flex flex-col gap-12">
+        < main className="mx-8 my-4 flex flex-col gap-2 relative z-20" >
           <Header />
-          <Hero />
-          <AboutMe />
-        </div>
-      </main>
+          <AppRouter />
+        </main>
+      </div>
     </div>
   )
 }

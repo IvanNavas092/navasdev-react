@@ -18,7 +18,7 @@ export default function Hero() {
     const time = new Intl.DateTimeFormat('es-ES', { timeStyle: 'short' }).format(now)
 
     return (
-        <div className="grid min-h-[86svh] md:h-[86vh] grid-cols-1 gap-10 py-4 md:grid-cols-2 md:gap-4">
+        <div className="grid min-h-[86svh] md:h-[91vh] grid-cols-1 gap-10 py-4 md:grid-cols-2 md:gap-4">
             {/* izquierda */}
             <div className="flex flex-col gap-8 md:justify-between md:gap-6">
                 <div className="flex flex-col gap-4">
